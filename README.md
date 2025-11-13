@@ -4,7 +4,7 @@ A simple **memory card matching game** built with **HTML, CSS, and JavaScript**.
 Flip the cards, match the pairs, and try to beat the timer!
 
 🎮 **Play it here:**  
-👉 [Memory FlipCard Game on GitHub Pages](https://birjesol2tte.github.io/MemoryCardGame/)
+👉 [Memory FlipCard Game on GitHub Pages](https://birjesol2tte.github.io/LoginPage/)
 
 ---
 
